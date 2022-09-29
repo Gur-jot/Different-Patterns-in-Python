@@ -1,7 +1,5 @@
 # import the turtle modules
 import turtle
-
-
 # define the function
 # for hexagon
 def form_hex(side):
