@@ -2,8 +2,6 @@ import turtle
 from turtle import*
 import turtle
 import time
-
-
 screen = turtle.getscreen()
 
 screen.bgcolor("#b3daff")
@@ -12,7 +10,6 @@ screen.title("Indian Flag -By Gurjot Singh")
 
 #screen for output
 screen = turtle.Screen()
-
 # Defining a turtle Instance
 t = turtle.Turtle()
 speed(0)
