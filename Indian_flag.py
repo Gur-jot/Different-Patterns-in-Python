@@ -5,7 +5,6 @@ import time
 screen = turtle.getscreen()
 
 screen.bgcolor("#b3daff")
-
 screen.title("Indian Flag -By Gurjot Singh")
 
 #screen for output
