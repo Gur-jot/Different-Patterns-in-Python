@@ -2,8 +2,8 @@
 import turtle
 
 
-   # define the function
-   # for triangle
+# define the function
+# for triangle
 def form_tri(side):
 	for i in range(3):
 		my_pen.fd(side)
